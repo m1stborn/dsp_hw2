@@ -15,10 +15,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="032ed1f1-37a6-4a1a-ab48-f8344a6e3436" name="Changes" comment="Feat: 98.10">
+    <list default="true" id="032ed1f1-37a6-4a1a-ab48-f8344a6e3436" name="Changes" comment="Feat: 26 98.39">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3-train.sh" beforeDir="false" afterPath="$PROJECT_DIR$/3-train.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4-test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/4-test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <workItem from="1668508223313" duration="5010000" />
       <workItem from="1668521369827" duration="7142000" />
       <workItem from="1668607850339" duration="2874000" />
-      <workItem from="1668691883877" duration="8722000" />
+      <workItem from="1668691883877" duration="12451000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: init">
       <created>1668507633923</created>
@@ -123,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668704123512</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Feat: 98.10">
+      <created>1668706129337</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668706129337</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Feat: 26 98.39">
+      <created>1668708329520</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668708329520</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +159,7 @@
     <MESSAGE value="Feat: init" />
     <MESSAGE value="Feat: 96.43" />
     <MESSAGE value="Feat: 98.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: 98.10" />
+    <MESSAGE value="Feat: 26 98.39" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: 26 98.39" />
   </component>
 </project>
