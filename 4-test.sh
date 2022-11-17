@@ -9,7 +9,7 @@ test_feat=feat/test.39.cmvn.ark
 
 
 ### parameters that you can modify
-opt_acwt=1.5
+opt_acwt=$1
 test_beam=100
 ###
 
@@ -58,4 +58,4 @@ echo ""
 echo "Execution time for whole script = `utility/timer.pl $sec`"
 echo ""
 
-echo "$1" "$acc" >> exp-numgauss.txt
+echo "$1" "$acc" >> exp-opt_acwt.txt
