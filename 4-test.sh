@@ -58,4 +58,4 @@ echo ""
 echo "Execution time for whole script = `utility/timer.pl $sec`"
 echo ""
 
-echo "$1" "acc" >> logging.txt
+echo "$1" "$acc" >> exp-iters.txt
