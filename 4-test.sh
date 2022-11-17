@@ -9,8 +9,8 @@ test_feat=feat/test.39.cmvn.ark
 
 
 ### parameters that you can modify
-opt_acwt=0.25
-test_beam=15
+opt_acwt=1.5
+test_beam=100
 ###
 
 mkdir -p $dir
@@ -57,3 +57,5 @@ sec=$SECONDS
 echo ""
 echo "Execution time for whole script = `utility/timer.pl $sec`"
 echo ""
+
+echo "$1" "acc" >> logging.txt
